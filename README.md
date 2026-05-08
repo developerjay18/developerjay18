@@ -16,6 +16,6 @@ Hi there 👋, I'm Jay Rai<br><br>Full Stack Web Developer | MERN Stack | Next.j
 ![](https://github-profile-trophy.vercel.app/?username=developerjay18&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
 ---
-[![](https://komarev.com/ghpvc/?username=developerjay18&icon=0&color=0)](https://visitcount.itsvg.in)
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=developerjay18&label=Profile%20views&color=0e75b6&style=flat" alt="developerjay18" /> </p>
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
